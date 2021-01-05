@@ -7,7 +7,7 @@ I have taken a Kaggle dataset to create a Predictive model to ascertain the like
 
 ## The dataset is owned by Mohan S Acharya.
 
-[kaggleDataSet](https://www.kaggle.com/mohansacharya/graduate-admissions)
+[Kaggle DataSet by Mohan S Acharya](https://www.kaggle.com/mohansacharya/graduate-admissions)
 
 "This dataset was built with the purpose of helping students in shortlisting universities with their profiles. The predicted output gives them a fair idea about their chances for a particular university."
 
@@ -52,6 +52,7 @@ Enjoy
 Thank you  
 
 Your's Truely, 
+
 Anuraag Rath
 
 
