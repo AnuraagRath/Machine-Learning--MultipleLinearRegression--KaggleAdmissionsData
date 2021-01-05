@@ -1,4 +1,5 @@
-# MultipleLinearRegression-Machine-Learning, Kaggle-Admissions-Data
+# Multiple Linear Regression - Admissions Dataset
+## Machine-Learning, Kaggle-Admissions-Data
 
 ![Kaggle Logo](/images/kaggle.png)
 
