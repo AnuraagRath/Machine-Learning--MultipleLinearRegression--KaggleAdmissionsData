@@ -1,4 +1,7 @@
 # Multiple Linear Regression - Admissions Dataset
+
+<img src = "https://media.giphy.com/media/3o85xFdBA27p6TJWgM/giphy.gif">
+
 ## Machine-Learning, Kaggle-Admissions-Data
 
 ![Kaggle Logo](/images/kaggle.png)
